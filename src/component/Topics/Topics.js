@@ -21,7 +21,7 @@ const Topics = () => {
             person has a different skill set depending on their interests,
             natural abilities, personal qualities and technical skills in life. Skills
             can expand your professional competency and allow you to perform
-            your job well.This is very challenging in life.It should be very essential for human being.
+            your job well.This is very challenging in life.It should be very essential for human being.Hopefully have
           </p>
         </div>
       </div>
