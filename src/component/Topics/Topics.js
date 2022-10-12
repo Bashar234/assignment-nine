@@ -14,7 +14,7 @@ const Topics = () => {
         <img className="card-img img-fluid" src="images/skill.png" alt="Card" />
         <div className="card-img-overlay">
           <h3 className="text-center text-white card-title">
-            Set goals for yourself..
+            Set goals for yourself....
           </h3>
           <p className="card-text text-center p-3 text-white">
             A skill set is a collection of skills and abilities. Each person has
