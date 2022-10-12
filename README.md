@@ -1,3 +1,7 @@
+## live-site-link:
+
+https://resplendent-bublanina-5d42b7.netlify.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -5,6 +9,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+
+## Feature
+
+-This is a dynamic website.
+-by using bootstrap
+-by using react, this is very hard for me first time.
+-this is a difficult and enjoyable journey for me.
 
 ### `npm start`
 
