@@ -19,9 +19,11 @@ const Topics = () => {
           <p className="card-text text-center p-3 text-white">
             A skill set is a collection of skills and abilities also. Each
             person has a different skill set depending on their interests,
-            natural abilities, personal qualities and technical skills in life. Skills
-            can expand your professional competency and allow you to perform
-            your job well.This is very challenging in life.It should be very essential for human being.Hopefully have
+            natural abilities, personal qualities and technical skills in life.
+            Skills can expand your professional competency and allow you to
+            perform your job well.This is very challenging in life.It should be
+            very essential for human being.Hopefully have a better journey.Be a
+            skilled person.
           </p>
         </div>
       </div>
