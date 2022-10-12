@@ -17,11 +17,11 @@ const Topics = () => {
             Set goals for yourself....
           </h3>
           <p className="card-text text-center p-3 text-white">
-            A skill set is a collection of skills and abilities. Each person has
-            a different skill set depending on their interests, natural
-            abilities, personal qualities and technical skills. Skills can
-            expand your professional competency and allow you to perform your
-            job well.This is very challenging in life.
+            A skill set is a collection of skills and abilities also. Each
+            person has a different skill set depending on their interests,
+            natural abilities, personal qualities and technical skills. Skills
+            can expand your professional competency and allow you to perform
+            your job well.This is very challenging in life.
           </p>
         </div>
       </div>
