@@ -21,7 +21,7 @@ const Topics = () => {
             a different skill set depending on their interests, natural
             abilities, personal qualities and technical skills. Skills can
             expand your professional competency and allow you to perform your
-            job well.
+            job well.This is very challenging in life.
           </p>
         </div>
       </div>
